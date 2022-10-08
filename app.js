@@ -6,7 +6,7 @@ const body_element = document.body;
 
 const questions_and_answers = {
     question_one: {
-        question: "The FOMC has how many members?",
+        question: "The FOMC has how many members (not including alternate members)?",
         correct_answer: "12",
         answer_choices: ["11", "12", "13", "14"]
     },
